@@ -3,10 +3,10 @@ title: Run the sequence
 order: 1
 issue: 2
 github:
-  state: null
-  pr: null
-  merged_at: null
-  synced_at: null
+  state: closed
+  pr: 4
+  merged_at: '2026-09-21T00:41:51Z'
+  synced_at: '2026-09-21T00:42:11.143Z'
 ---
 
 # Run the sequence
