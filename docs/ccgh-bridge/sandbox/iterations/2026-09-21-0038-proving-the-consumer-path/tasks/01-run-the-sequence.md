@@ -1,7 +1,7 @@
 ---
 title: Run the sequence
 order: 1
-issue: null
+issue: 2
 github:
   state: null
   pr: null
@@ -24,7 +24,7 @@ that the bridge wrote, reached without anyone editing front matter by hand.
 - Consumes: the plugin installed from the marketplace, and the action at `Hova25/ccgh-bridge@v1`.
 - Produces: a shipped iteration, and a transcript for task 2.
 
-- [ ] **Write the failing test**
+- [x] **Write the failing test**
 
 There is no unit to test here; the gates are the test, and they fail where the sequence stops.
 Written before running, so that no step can be declared successful afterwards:
@@ -36,18 +36,18 @@ Written before running, so that no step can be declared successful afterwards:
 4. Closing both issues makes `ccgh-sync` mirror them.
 5. With the last one closed, the iteration reaches `status: shipped` without anyone typing it.
 
-- [ ] **Run it to verify it fails**
+- [x] **Run it to verify it fails**
 
 Not applicable: nothing has run yet, which is the failing state.
 
-- [ ] **Write the implementation**
+- [x] **Write the implementation**
 
 Run the five steps. Keep what each one printed, including the runs on GitHub, because task 2
 is the record and memory of an output is worth less than the output.
 
-- [ ] **Run the tests to verify they pass**
+- [x] **Run the tests to verify they pass**
 
 The iteration's specification says `status: shipped`, and the commit that wrote it is the
 bridge's.
 
-- [ ] **Commit**
+- [x] **Commit**
