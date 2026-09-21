@@ -26,17 +26,17 @@ artefact the sandbox exists to produce, and the reason it stays after the iterat
 - Consumes: the transcript from task 1.
 - Produces: nothing. The iteration ends here.
 
-- [ ] **Write the failing test**
+- [x] **Write the failing test**
 
 The README today says what this repository is for and nothing about what it found. The test is
 reading it and asking whether someone who was not here could re-run the trial from it. Today
 they could not.
 
-- [ ] **Run it to verify it fails**
+- [x] **Run it to verify it fails**
 
 Not applicable.
 
-- [ ] **Write the implementation**
+- [x] **Write the implementation**
 
 Write, in order: how the plugin was installed, what `ccgh init` produced, what each gate did,
 and a list of what broke with the repository and the change that repaired it. Include the
@@ -46,8 +46,8 @@ checked.
 Say plainly what this does not prove: one machine, one account, one repository with no prior
 workflows, run by the people who built the thing.
 
-- [ ] **Run the tests to verify they pass**
+- [x] **Run the tests to verify they pass**
 
 Someone who was not here can read the README and re-run the trial.
 
-- [ ] **Commit**
+- [x] **Commit**
