@@ -1,10 +1,15 @@
 ---
 title: Proving the consumer path
-status: ready
+status: active
 depends_on: []
 impacts: []
 validated_by: hovannes
 validated_at: '2026-09-21T00:39:42.372Z'
+launched_by: hovannes
+launched_at: '2026-09-21T00:40:20.050Z'
+launched_tasks:
+  - tasks/01-run-the-sequence.md
+  - tasks/02-write-down-what-it-showed.md
 ---
 
 # Proving the consumer path
