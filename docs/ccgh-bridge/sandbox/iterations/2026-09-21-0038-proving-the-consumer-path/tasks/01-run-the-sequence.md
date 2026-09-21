@@ -1,7 +1,7 @@
 ---
 title: Run the sequence
 order: 1
-issue: null
+issue: 2
 github:
   state: null
   pr: null
