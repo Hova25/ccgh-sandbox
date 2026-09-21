@@ -3,10 +3,10 @@ title: Write down what it showed
 order: 2
 issue: 3
 github:
-  state: null
+  state: closed
   pr: 4
   merged_at: '2026-09-21T00:41:51Z'
-  synced_at: '2026-09-21T00:42:07.429Z'
+  synced_at: '2026-09-21T00:42:11.144Z'
 ---
 
 # Write down what it showed
