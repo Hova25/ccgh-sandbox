@@ -4,9 +4,9 @@ order: 2
 issue: 3
 github:
   state: null
-  pr: null
-  merged_at: null
-  synced_at: null
+  pr: 4
+  merged_at: '2026-09-21T00:41:51Z'
+  synced_at: '2026-09-21T00:42:07.429Z'
 ---
 
 # Write down what it showed
