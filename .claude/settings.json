@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ccgh-bridge": {
+      "source": {
+        "source": "github",
+        "repo": "Hova25/ccgh-bridge"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ccgh@ccgh-bridge": true
+  }
+}
